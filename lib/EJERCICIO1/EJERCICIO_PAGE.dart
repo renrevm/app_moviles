@@ -66,7 +66,7 @@ class _EjercicioBotonState extends State<EjercicioBoton> {
                       opc = 1;
                     });
                   },
-                  child: Text('Color Verdess'),
+                  child: Text('Color Verde'),
                 ),
                 TextButton(
                   onPressed: () {
