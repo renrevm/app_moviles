@@ -13,7 +13,7 @@ class _EjercicioBotonState extends State<EjercicioBoton> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Ejercicio Botón'),
+        title: Text('Gonzalo Chupalo'),
         backgroundColor: Colors.lightGreen.shade100,
       ),
       body: Column(
