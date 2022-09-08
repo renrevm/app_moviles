@@ -14,7 +14,7 @@ class _EjercicioBotonState extends State<EjercicioBoton> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Gonzalo Chupalo'),
-        backgroundColor: Colors.lightGreen.shade100,
+        backgroundColor: Color.fromARGB(255, 202, 47, 0),
       ),
       body: Column(
         children: [
